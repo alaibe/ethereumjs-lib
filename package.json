@@ -75,6 +75,7 @@
     "ecdsa-native": false,
     "./lib/ecdsaOps.js": "./browser/ecdsaOps.js",
     "bignum": "bignum-browserify",
-    "sha3": "./browser/sha3.js"
+    "sha3": "./browser/sha3.js",
+    "utils": "ethereumjs-util"
   }
 }
